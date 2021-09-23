@@ -1,0 +1,55 @@
+,City,Country,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Current Description
+0,Arapiraca,BR,-9.7525,-36.6611,70.66,97,18,8.23,few clouds
+1,Lima,PE,-12.0432,-77.0282,59.4,86,75,10.36,broken clouds
+2,Disna,BY,55.568,28.1971,40.1,97,100,3.58,moderate rain
+3,Senador Pompeu,BR,-5.5881,-39.3717,76.82,66,71,6.85,broken clouds
+4,Ribeira Grande,PT,38.5167,-28.7,70.97,74,13,12.37,few clouds
+5,Raga,SS,8.4596,25.678,69.24,90,95,1.39,overcast clouds
+6,Ginir,ET,7.1333,40.7,58.98,76,30,7.4,scattered clouds
+7,Ushuaia,AR,-54.8,-68.3,38.86,87,20,3.44,few clouds
+8,Akhisar,TR,38.9185,27.8401,55.02,79,99,9.51,light rain
+9,Ladario,BR,-19.0047,-57.6017,77.38,54,66,3.51,broken clouds
+10,Antalaha,MG,-14.9003,50.2788,68.77,76,42,5.61,scattered clouds
+11,Punta Arenas,CL,-53.15,-70.9167,39.31,75,0,14.97,clear sky
+12,Arraial Do Cabo,BR,-22.9661,-42.0278,67.14,60,94,13.24,overcast clouds
+13,Rawson,AR,-43.3002,-65.1023,59.59,41,3,11.72,clear sky
+14,Bani,DO,18.2833,-70.3333,78.04,85,60,2.15,broken clouds
+15,Qaqortoq,GL,60.7167,-46.0333,39.42,93,100,10.47,overcast clouds
+16,Villa Carlos Paz,AR,-31.4241,-64.4978,52.39,62,0,1.45,clear sky
+17,Eatonton,US,33.3268,-83.3885,65.62,88,2,10.31,clear sky
+18,Baijiantan,CN,45.6333,85.1833,59.56,24,99,8.86,overcast clouds
+19,Vestmannaeyjar,IS,63.4427,-20.2734,42.08,62,45,7.36,scattered clouds
+20,Hofn,IS,64.2539,-15.2082,40.21,57,0,12.44,clear sky
+21,Muros,ES,42.7762,-9.0603,61.99,78,3,14.81,clear sky
+22,Kavaratti,IN,10.5669,72.642,82.42,77,100,17.13,overcast clouds
+23,East London,ZA,-33.0153,27.9116,60.71,72,100,15.95,overcast clouds
+24,Kruisfontein,ZA,-34.0033,24.7314,58.5,48,46,7.67,scattered clouds
+25,Inhambane,MZ,-23.865,35.3833,64.11,79,40,8.25,scattered clouds
+26,Harper,LR,4.375,-7.7169,76.95,88,95,6.69,light rain
+27,Barranca,PE,-10.75,-77.7667,60.73,88,100,8.88,overcast clouds
+28,Cape Town,ZA,-33.9258,18.4232,66.11,76,0,10.36,clear sky
+29,Hendek,TR,40.7994,30.7481,53.91,96,100,4.61,light rain
+30,Karaton,ID,-6.3424,106.1045,84.36,60,91,4.45,overcast clouds
+31,Hadejia,NG,12.4498,10.0444,73.13,87,100,6.73,overcast clouds
+32,Doha,QA,25.2867,51.5333,84.18,61,0,5.75,clear sky
+33,Busselton,AU,-33.65,115.3333,62.1,65,30,13.65,scattered clouds
+34,Uvat,RU,59.1433,68.8953,35.46,90,49,5.06,scattered clouds
+35,Ichnya,UA,50.8626,32.3942,42.22,95,100,6.17,overcast clouds
+36,Saint-Joseph,RE,-21.3667,55.6167,68.36,80,48,8.88,light rain
+37,Saint-Philippe,RE,-21.3585,55.7679,69.35,82,63,11.99,light rain
+38,Qaanaaq,GL,77.484,-69.3632,11.64,57,7,7.83,clear sky
+39,Ponta Do Sol,PT,32.6667,-17.1,72.23,65,100,4.32,overcast clouds
+40,Havre-Saint-Pierre,CA,50.2334,-63.5986,55.76,88,90,3.44,overcast clouds
+41,Jalingo,NG,8.8833,11.3667,70.59,98,99,1.72,overcast clouds
+42,Codrington,AU,-38.2667,141.9667,64.49,55,0,18.1,clear sky
+43,La Rioja,ES,42.25,-2.5,49.48,87,62,5.03,broken clouds
+44,Cayenne,GF,4.9333,-52.3333,82.09,83,100,3.0,overcast clouds
+45,Hithadhoo,MV,-0.6,73.0833,83.46,73,99,13.58,moderate rain
+46,Kristiinankaupunki,FI,62.2743,21.376,47.34,85,100,20.38,overcast clouds
+47,Hermanus,ZA,-34.4187,19.2345,65.89,49,46,6.24,scattered clouds
+48,Bezhanitsy,RU,56.9767,29.8907,39.16,96,100,2.51,light rain
+49,Longyearbyen,SJ,78.2186,15.6401,46.24,71,40,16.11,light rain
+50,Port Elizabeth,ZA,-33.918,25.5701,57.49,94,0,8.05,clear sky
+51,Yarada,IN,17.65,83.2667,82.72,94,75,2.3,mist
+52,Middelburg,ZA,-25.7751,29.4648,50.09,61,0,1.95,clear sky
+53,Acarau,BR,-2.8856,-40.12,77.41,84,84,13.49,broken clouds
