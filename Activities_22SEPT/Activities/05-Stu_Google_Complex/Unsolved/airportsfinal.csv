@@ -1,0 +1,41 @@
+,City,State,Lat,Lng,Airport Name,Address,Rating
+0,New York City,New York,40.7127753,-74.0059728,John F. Kennedy International Airport,Queens,3.9
+1,Los Angeles,California,34.0522342,-118.2436849,Los Angeles International Airport,"1 World Way, Los Angeles",3.8
+2,Chicago,Illinois,41.8781136,-87.6297982,O'Hare International Airport,"10000 W O'Hare Ave, Chicago",3.9
+3,Houston,Texas,29.7604267,-95.3698028,George Bush Intercontinental Airport,"2800 N Terminal Rd, Houston",4.1
+4,Philadelphia,Pennsylvania,39.9525839,-75.1652215,Philadelphia International Airport,"8000 Essington Ave, Philadelphia",3.8
+5,Phoenix,Arizona,33.4483771,-112.0740373,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+6,Virginia Beach,Virginia,36.8529263,-75.97798499999999,Norfolk International Airport,"2200 Norview Ave, Norfolk",4.1
+7,Raleigh,North Carolina,35.7795897,-78.6381787,Raleigh-Durham International Airport,"John Brantley Blvd, Morrisville",4.4
+8,Omaha,Nebraska,41.2565369,-95.9345034,,,
+9,Miami,Florida,25.7957498,-80.1914656,Miami International Airport,"2100 NW 42nd Ave, Miami",4
+10,Oakland,California,37.8043514,-122.2711639,San Francisco International Airport,San Francisco,4.1
+11,Minneapolis,Minnesota,44.9900315,-93.2528001,Minneapolis−Saint Paul International Airport,"Minnesota, United States",4.3
+12,Orlando,Florida,28.5383355,-81.3792365,Orlando International Airport,"1 Jeff Fuqua Blvd, Orlando",4.1
+13,Chula Vista,California,32.6400541,-117.0841955,San Diego International Airport,"3225 N Harbor Dr, San Diego",4.2
+14,Jersey City,New Jersey,40.7177545,-74.0431435,John F. Kennedy International Airport,Queens,3.9
+15,Chandler,Arizona,33.298824,-111.899186,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+16,Fort Wayne,Indiana,41.1765143,-85.09519499999999,Fort Wayne International Airport,"3801 W Ferguson Rd, Fort Wayne",4.2
+17,Buffalo,New York,40.560273,-74.13433599999999,John F. Kennedy International Airport,Queens,3.9
+18,Durham,North Carolina,35.9940329,-78.898619,Raleigh-Durham International Airport,"John Brantley Blvd, Morrisville",4.4
+19,St. Petersburg,Florida,27.7676008,-82.64029149999999,Tampa International Airport,"4100 George J Bean Pkwy, Tampa",4.5
+20,Irvine,California,33.6504434,-117.7513157,Ontario International Airport,"2500 E Airport Dr, Ontario",4.4
+21,Laredo,Texas,27.5062871,-99.44877869999999,Laredo International Airport,"5210 Bob Bullock Loop, Laredo",4.3
+22,Lubbock,Texas,33.5778631,-101.8551665,Lubbock Preston Smith International Airport,"5401 N Martin L King Blvd, Lubbock",4
+23,Madison,Wisconsin,43.067092,-89.401522,Dane County Regional Airport,"4000 International Ln, Madison",4.4
+24,Gilbert,Arizona,33.3076264,-111.7582569,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+25,Norfolk,Virginia,36.8507689,-76.28587259999999,Norfolk International Airport,"2200 Norview Ave, Norfolk",4.1
+26,Reno,Nevada,39.506811,-119.761288,Reno-Tahoe International Airport,"2001 E Plumb Ln, Reno",4.4
+27,Winston-Salem,North Carolina,36.09985959999999,-80.244216,Piedmont Triad International Airport,"1000 Ted Johnson Pkwy, Greensboro",4.4
+28,Glendale,Arizona,33.53539000000001,-112.2613531,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+29,Hialeah,Florida,25.8575963,-80.2781057,Miami International Airport,"2100 NW 42nd Ave, Miami",4
+30,Garland,Texas,32.912624,-96.63888329999999,Dallas/Fort Worth International Airport,"2400 Aviation Dr, DFW Airport",4.1
+31,Scottsdale,Arizona,33.4877503,-111.8930029,Phoenix Sky Harbor International Airport,"3400 E Sky Harbor Blvd, Phoenix",4.3
+32,Irving,Texas,32.8140177,-96.9488945,Dallas/Fort Worth International Airport,"2400 Aviation Dr, DFW Airport",4.1
+33,Chesapeake,Virginia,36.7682088,-76.2874927,Norfolk International Airport,"2200 Norview Ave, Norfolk",4.1
+34,North Las Vegas,Nevada,36.200505,-115.121615,McCarran International Airport,"5757 Wayne Newton Blvd, Las Vegas",4.2
+35,Fremont,California,37.5485396,-121.988583,San Francisco International Airport,San Francisco,4.1
+36,Baton Rouge,Louisiana,30.4514677,-91.18714659999999,Baton Rouge Metropolitan Airport,"9430 Jackie Cochran Dr, Baton Rouge",4.2
+37,Richmond,Virginia,37.5407246,-77.4360481,Richmond International Airport,"1 Richard E Byrd Terminal Dr, Richmond",4.3
+38,Boise,Idaho,43.5901623,-116.2398293,Boise Airport,"3201 W Airport Way #1000, Boise",4.5
+39,San Bernardino,California,34.1083449,-117.2897652,Ontario International Airport,"2500 E Airport Dr, Ontario",4.4
